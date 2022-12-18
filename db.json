@@ -1,0 +1,124 @@
+{
+    "data": [
+        {
+            "id": "01",
+            "title": "Interstellar",
+            "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+            "genre": "Sci-Fi",
+            "image": "https://ia.media-imdb.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SX300.jpg",
+            "trailer": "2LqzF5WauAw"
+        },   
+        {
+            "id": "02",
+            "title": "Avengers: Endgame",
+            "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+            "genre": "Action",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_FMjpg_UX1000_.jpg",
+            "trailer": "TcMBFSGVi1c"
+        },
+        {
+            "id": "03",
+            "title": "Avengers: Infinity War",
+            "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+            "genre": "Action",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_FMjpg_UX1000_.jpg",
+            "trailer": "6ZfuNTqbHE8 "
+        },
+        {
+            "id": "04",
+            "title": "1917",
+            "description": "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+            "genre": "History",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_FMjpg_UX1000_.jpg",
+            "trailer": "YqNYrYUiMfg "
+        },
+        {
+            "id": "05",
+            "title": "Dunkirk",
+            "description": "Allied soldiers from Belgium, the British Commonwealth and Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II.",
+            "genre": "History",
+            "image": "https://m.media-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg",
+            "trailer": "F-eMt3SrfFU "
+        },
+        {
+            "id": "06",
+            "title": "Top Gun: Maverick",
+            "description": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to fly it.",
+            "genre": "Action",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg",
+            "trailer": "qSqVVswa420"
+        },
+        {
+            "id": "07",
+            "title": "Barbie",
+            "description": "Barbie lives in Barbie Land and then a story happens.",
+            "genre": "Comedy",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzQ3NTRjZDUtNGVhYS00OWQ0LTljMjEtYzJkOGJhYWViNjIxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
+            "trailer": "obzdpJQ3y7M"
+        },
+        {
+            "id": "08",
+            "title": "Transformers: Rise of Beasts",
+            "description": "Reportedly based on the 'Transformers' spinoff 'Beast Wars' which feature robots that transform into robotic animals.",
+            "genre": "Sci-Fi",
+            "image": "https://m.media-amazon.com/images/M/MV5BN2FkOWQ3YzItNmNhZi00ZWNlLThjYTMtZWIyZDc2YjQzMjk3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+            "trailer": "WWWDskI46Js"
+        },
+        {
+            "id": "09",
+            "title": "John Wick: Chapter 4",
+            "description": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+            "genre": "Action",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDExZGMyOTMtMDgyYi00NGIwLWJhMTEtOTdkZGFjNmZiMTEwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_FMjpg_UX1000_.jpg",
+            "trailer": "qEVUtrk8_B4"
+        },
+        {
+            "id": "10",
+            "title": "Spider-Man: Across the Spider-Verse",
+            "description": "Miles Morales returns for the next chapter of the Oscar®-winning Spider-Verse saga, an epic adventure that will transport Brooklyn's full-time, friendly neighborhood Spider-Man across the Multiverse to join forces with Gwen Stacy and a new team of Spider-People to face off with a villain more powerful than anything they have ever encountered.",
+            "genre": "Action",
+            "image": "https://m.media-amazon.com/images/M/MV5BZGRhNDE1YjYtOGUzMC00YjliLThiOTgtYTkwNmQwNDZjYjFhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",
+            "trailer": "cqGjhVJWtEg"
+        },
+        {
+            "id": "11",
+            "title": "Mission: Impossible: Dead Reckoning",
+            "description": "Seventh entry in the long-running Mission: Impossible series.",
+            "genre": "Action",
+            "image": "https://m.media-amazon.com/images/M/MV5BZmM1MmI1MjctOTkyMi00MjZhLWEwN2MtYjEwNGRjNmUxZmVjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg",
+              "trailer": "2m1drlOZSDw"
+        },
+        {
+            "id": "12",
+            "title": "Bullet Train",
+            "description": "Five assassins aboard a swiftly-moving bullet train find out that their missions have something in common.",
+            "genre": "Comedy",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDU2ZmM2OTYtNzIxYy00NjM5LTliNGQtN2JmOWQzYTBmZWUzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+                 "trailer": "0IOsk2Vlc4o"
+        },
+        {
+            "id": "13",
+            "title": "Tenet",
+            "description": "Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+            "genre": "Sci-Fi",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzg0NGM2NjAtNmIxOC00MDJmLTg5ZmYtYzM0MTE4NWE2NzlhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_FMjpg_UX1000_.jpg",
+                    "trailer": "AZGcmvrTX9M"
+        },
+        {
+            "id": "14",
+            "title": "Rush Hour",
+            "description": "A loyal and dedicated Hong Kong Inspector teams up with a reckless and loudmouthed L.A.P.D. detective to rescue the Chinese Consul's kidnapped daughter, while trying to arrest a dangerous crime lord along the way.",
+               "genre": "Comedy",
+            "image": "https://m.media-amazon.com/images/M/MV5BYWM2NDZmYmYtNzlmZC00M2MyLWJmOGUtMjhiYmQ2OGU1YTE1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+            "trailer": "JMiFsFQcFLE"
+        },
+        {
+            "id": "15",
+            "title": "Chernobyl",
+            "description": "In April 1986, an explosion at the Chernobyl nuclear power plant in the Union of Soviet Socialist Republics becomes one of the world's worst man-made catastrophes.",
+            "genre": "History",
+            "image": "https://m.media-amazon.com/images/M/MV5BZGQ2YmMxZmEtYjI5OS00NzlkLTlkNTEtYWMyMzkyMzc2MDU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_FMjpg_UX1000_.jpg",
+            "trailer": "s9APLXM9Ei8"
+        }
+    ]
+}

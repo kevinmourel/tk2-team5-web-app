@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.img-card {
+  height: 35vh;
+}
+
+
+@media screen and (max-width: 600px) {
+
+  .img-card {
+    height: auto;
+  }
+
+  .react-player {
+    height: 45vh !important;
+    width: 100% !important;
+  }
+
+}
